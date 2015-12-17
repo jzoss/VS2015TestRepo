@@ -8,5 +8,6 @@ namespace RemoteTest
 {
     public class Class1
     {
+        //TESTRemote
     }
 }
